@@ -49,5 +49,8 @@ Future Improvements -
 Final Note - 
 Factify is a simple project built to address the growing problem of fake news. It shows how machine learning can be used in a practical way to help people make better decisions about the information they consume.
 
-Screenshots of News Authorizations - 
+Screenshots of News Authentications - 
+1. Real News Authentication
 <img width="1919" height="1016" alt="Screenshot 2026-03-27 000016" src="https://github.com/user-attachments/assets/8b70cb34-1cb2-42aa-b526-ca9d97b46359" />
+2. Fake News Authentication
+   <img width="1919" height="1023" alt="Screenshot 2026-03-27 000058" src="https://github.com/user-attachments/assets/4729cfbe-272a-4fe6-ad53-494acf2dce63" />

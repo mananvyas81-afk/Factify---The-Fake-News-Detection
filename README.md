@@ -1,6 +1,7 @@
 Factify – The Fake News Detector
 
 Project Overview
+
 In today’s digital world, we see news everywhere — social media posts, forwarded messages, and online articles. The problem is that a lot of this information is misleading or completely fake, and it’s becoming harder to tell what’s real.
 Factify is a simple web application that helps solve this problem. It allows users to paste any news content and quickly check whether it is likely real or fake using a machine learning model.
 
